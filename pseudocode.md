@@ -30,3 +30,4 @@ Deskripsi :
 21.	print jmlDiskon
 22.	print”jumlah yang harus dibayar adalah”
 23.	print bayar
+24. selesai
